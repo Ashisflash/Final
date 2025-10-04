@@ -3,7 +3,6 @@
   "%Name":"obj_player",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Eggplant_Power_Up","path":"objects/Eggplant_Power_Up/Eggplant_Power_Up.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
@@ -37,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"idle_animaton__main_",
-    "path":"sprites/idle_animaton__main_/idle_animaton__main_.yy",
+    "name":"idle_animaton",
+    "path":"sprites/idle_animaton/idle_animaton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"idle_animaton__main_",
+  "%Name":"idle_animaton",
   "bboxMode":0,
   "bbox_bottom":27,
   "bbox_left":6,
@@ -23,7 +23,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2c521b17-87ac-4284-b331-37394b5121c6","blendMode":0,"displayName":"default","isLocked":false,"name":"2c521b17-87ac-4284-b331-37394b5121c6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"idle_animaton__main_",
+  "name":"idle_animaton",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"idle_animaton__main_",
+    "%Name":"idle_animaton",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"idle_animaton__main_",
+    "name":"idle_animaton",
     "playback":1,
     "playbackSpeed":5.0,
     "playbackSpeedType":0,
@@ -73,13 +73,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"68fdd019-8eff-47be-8fa3-2397ae1d061f","path":"sprites/idle_animaton__main_/idle_animaton__main_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"68fdd019-8eff-47be-8fa3-2397ae1d061f","path":"sprites/idle_animaton/idle_animaton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3d204e2d-a0fc-4556-970d-a38db918affb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e80df25e-55ba-4927-92bd-487843aab66c","path":"sprites/idle_animaton__main_/idle_animaton__main_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e80df25e-55ba-4927-92bd-487843aab66c","path":"sprites/idle_animaton/idle_animaton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bc12a39f-58b6-4798-bfc4-1fe9a72c38c5","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"69314340-682d-40ab-a789-6e4559a94e78","path":"sprites/idle_animaton__main_/idle_animaton__main_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"69314340-682d-40ab-a789-6e4559a94e78","path":"sprites/idle_animaton/idle_animaton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e70be0b7-c9df-49af-a01f-b2b77fc4c557","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

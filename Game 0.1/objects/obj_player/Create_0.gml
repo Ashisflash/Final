@@ -1,13 +1,14 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 5ACED2C5
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)// Movement$(13_10)move_speed = 4;$(13_10)jump_speed = -10;$(13_10)gravity = 0.5;$(13_10)vsp = 0; // vertical speed$(13_10)$(13_10)// Ground detection$(13_10)on_ground = false;"
-/// @description Execute Code
-// Movement
+/// @DnDHash : 7EA4D1B8
+/// @DnDInput : 4
+/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr_1" "16"
+/// @DnDArgument : "var" "move_speed"
+/// @DnDArgument : "var_1" "jump_speed"
+/// @DnDArgument : "var_2" "move_x"
+/// @DnDArgument : "var_3" "move_y"
 move_speed = 4;
-jump_speed = -10;
-gravity = 0.5;
-vsp = 0; // vertical speed
-
-// Ground detection
-on_ground = false;
+jump_speed = 16;
+move_x = 0;
+move_y = 0;

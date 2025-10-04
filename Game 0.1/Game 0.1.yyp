@@ -49,7 +49,7 @@
     {"id":{"name":"Grave_Sprite","path":"sprites/Grave_Sprite/Grave_Sprite.yy",},},
     {"id":{"name":"ground","path":"sprites/ground/ground.yy",},},
     {"id":{"name":"honey","path":"sprites/honey/honey.yy",},},
-    {"id":{"name":"idle_animaton__main_","path":"sprites/idle_animaton__main_/idle_animaton__main_.yy",},},
+    {"id":{"name":"idle_animaton","path":"sprites/idle_animaton/idle_animaton.yy",},},
     {"id":{"name":"Sand_Sprite","path":"sprites/Sand_Sprite/Sand_Sprite.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},

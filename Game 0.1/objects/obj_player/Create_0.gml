@@ -1,14 +1,15 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7EA4D1B8
-/// @DnDInput : 4
+/// @DnDInput : 5
 /// @DnDArgument : "expr" "4"
-/// @DnDArgument : "expr_1" "16"
+/// @DnDArgument : "expr_3" "8"
 /// @DnDArgument : "var" "move_speed"
-/// @DnDArgument : "var_1" "jump_speed"
-/// @DnDArgument : "var_2" "move_x"
-/// @DnDArgument : "var_3" "move_y"
+/// @DnDArgument : "var_1" "move_x"
+/// @DnDArgument : "var_2" "move_y"
+/// @DnDArgument : "var_3" "jumpspeed_normal"
 move_speed = 4;
-jump_speed = 16;
 move_x = 0;
 move_y = 0;
+jumpspeed_normal = 8;
+variable = 0;

@@ -32,9 +32,9 @@ var l27CD77BB_0 = instance_place(x + 0, y + 2, [obj_ground]);if ((l27CD77BB_0 >
 		/// @DnDVersion : 1
 		/// @DnDHash : 07C6BEA6
 		/// @DnDParent : 667D24B9
-		/// @DnDArgument : "expr" "-jump_speed"
+		/// @DnDArgument : "expr" "-jumpspeed_normal"
 		/// @DnDArgument : "var" "move_y"
-		move_y = -jump_speed;}}
+		move_y = -jumpspeed_normal;}}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1

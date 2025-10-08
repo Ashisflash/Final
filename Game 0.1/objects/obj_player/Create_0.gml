@@ -3,7 +3,7 @@
 /// @DnDHash : 7EA4D1B8
 /// @DnDInput : 5
 /// @DnDArgument : "expr" "4"
-/// @DnDArgument : "expr_3" "8"
+/// @DnDArgument : "expr_3" "14"
 /// @DnDArgument : "var" "move_speed"
 /// @DnDArgument : "var_1" "move_x"
 /// @DnDArgument : "var_2" "move_y"
@@ -11,5 +11,5 @@
 move_speed = 4;
 move_x = 0;
 move_y = 0;
-jumpspeed_normal = 8;
+jumpspeed_normal = 14;
 variable = 0;
